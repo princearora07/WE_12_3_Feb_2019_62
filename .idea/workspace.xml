@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f65f2fa-4744-4b25-b31b-81aa5d7e786a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Vandini/bin/sample_vandini.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,12 @@
               <item name="WE_12_3_Feb_2019_62" type="462c0819:PsiDirectoryNode" />
               <item name="Vandini" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="WE_12_3_Feb_2019_62" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WE_12_3_Feb_2019_62" type="462c0819:PsiDirectoryNode" />
+              <item name="Vandini" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -65,7 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549180821221" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549181076732" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -90,6 +96,21 @@
       <option name="presentableId" value="Default" />
       <updated>1549180615201</updated>
     </task>
+    <task id="LOCAL-00001" summary="V_ID sample">
+      <created>1549180808885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549180808885</updated>
+    </task>
+    <task id="LOCAL-00002" summary="V_ID sample">
+      <created>1549180971204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549180971204</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -122,6 +143,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V_ID sample" />
+    <option name="LAST_COMMIT_MESSAGE" value="V_ID sample" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Vandini/bin/sample_vandini.sh">
