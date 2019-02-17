@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f65f2fa-4744-4b25-b31b-81aa5d7e786a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Branch_Dhananjay/S1/bin/Hello.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sample_Vipul/Sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,29 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vandini/bin/sample_vandini.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Branch_Chaitanya/bin/test.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Branch_Dhananjay/S1/bin/Hello.sh">
+        <entry file="file://$PROJECT_DIR$/Sample_Vipul/Sample.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -50,6 +33,7 @@
         <option value="$PROJECT_DIR$/Vandini/bin/sample_vandini.sh" />
         <option value="$PROJECT_DIR$/Branch_Chaitanya/bin/test.sh" />
         <option value="$PROJECT_DIR$/Branch_Dhananjay/S1/bin/Hello.sh" />
+        <option value="$PROJECT_DIR$/Sample_Vipul/Sample.txt" />
       </list>
     </option>
   </component>
@@ -67,36 +51,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="WE_12_3_Feb_2019_62_new123" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WE_12_3_Feb_2019_62_new123" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WE_12_3_Feb_2019_62_new123" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WE_12_3_Feb_2019_62_new123" type="462c0819:PsiDirectoryNode" />
-              <item name="Branch_Dhananjay" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WE_12_3_Feb_2019_62_new123" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WE_12_3_Feb_2019_62_new123" type="462c0819:PsiDirectoryNode" />
-              <item name="Branch_Dhananjay" type="462c0819:PsiDirectoryNode" />
-              <item name="S1" type="462c0819:PsiDirectoryNode" />
+              <item name="WE_12_3_Feb_2019_62_Prince" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WE_12_3_Feb_2019_62_Prince" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549188730558" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550415431862" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549180615201</updated>
       <workItem from="1549184118643" duration="49000" />
+      <workItem from="1550415381325" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="V_ID sample">
       <created>1549180808885</created>
@@ -140,13 +114,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49000" />
+    <option name="totallyTimeSpent" value="96000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -202,6 +176,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample_Vipul/Sample.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
