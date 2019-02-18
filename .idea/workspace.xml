@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f65f2fa-4744-4b25-b31b-81aa5d7e786a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Sample_Vipul/Sample.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Branch_Mahendra/s1_mysql/hql/customers_ddl.hql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Branch_Mahendra/s1_mysql/hql/pre_etl.hql" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Sample_Vipul/Sample.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="11" selection-start-column="11" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,24 +43,35 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="WE_12_3_Feb_2019_62_Prince" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WE_12_3_Feb_2019_62_Prince" type="462c0819:PsiDirectoryNode" />
+              <item name="WE_12_3_Feb_2019_62-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WE_12_3_Feb_2019_62-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WE_12_3_Feb_2019_62-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WE_12_3_Feb_2019_62-1" type="462c0819:PsiDirectoryNode" />
+              <item name="Branch_Mahendra" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550415431862" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550491089597" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mahendra\IdeaProjects\WE_12_3_Feb_2019_62-1\Branch_Mahendra\s1_mysql" />
+      <recent name="C:\Users\Mahendra\IdeaProjects\WE_12_3_Feb_2019_62-1\Branch_Mahendra\s1_mysql\hql" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -95,6 +97,7 @@
       <updated>1549180615201</updated>
       <workItem from="1549184118643" duration="49000" />
       <workItem from="1550415381325" duration="47000" />
+      <workItem from="1550488482940" duration="1090000" />
     </task>
     <task id="LOCAL-00001" summary="V_ID sample">
       <created>1549180808885</created>
@@ -110,17 +113,23 @@
       <option name="project" value="LOCAL" />
       <updated>1549180971204</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="V_ID sample">
+      <created>1550488575150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1550488575150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96000" />
+    <option name="totallyTimeSpent" value="1186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -183,6 +192,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branch_Mahendra/s1_mysql/hql/customers_ddl.hql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branch_Mahendra/s1_mysql/bin/custmers_staging.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
