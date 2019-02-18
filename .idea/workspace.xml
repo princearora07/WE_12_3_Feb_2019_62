@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1f65f2fa-4744-4b25-b31b-81aa5d7e786a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Branch_Mahendra/s1_mysql/hql/customers_ddl.hql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Branch_Mahendra/s1_mysql/hql/pre_etl.hql" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +54,19 @@
               <item name="WE_12_3_Feb_2019_62-1" type="462c0819:PsiDirectoryNode" />
               <item name="Branch_Mahendra" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="WE_12_3_Feb_2019_62-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WE_12_3_Feb_2019_62-1" type="462c0819:PsiDirectoryNode" />
+              <item name="Branch_Mahendra" type="462c0819:PsiDirectoryNode" />
+              <item name="s1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WE_12_3_Feb_2019_62-1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WE_12_3_Feb_2019_62-1" type="462c0819:PsiDirectoryNode" />
+              <item name="Branch_Mahendra" type="462c0819:PsiDirectoryNode" />
+              <item name="s1" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -65,10 +76,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550491179553" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550491298037" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mahendra\IdeaProjects\WE_12_3_Feb_2019_62-1\Branch_Mahendra\s1" />
+      <recent name="C:\Users\Mahendra\IdeaProjects\WE_12_3_Feb_2019_62-1\Branch_Mahendra\s2" />
       <recent name="C:\Users\Mahendra\IdeaProjects\WE_12_3_Feb_2019_62-1\Branch_Mahendra\s1_mysql" />
       <recent name="C:\Users\Mahendra\IdeaProjects\WE_12_3_Feb_2019_62-1\Branch_Mahendra\s1_mysql\hql" />
     </key>
@@ -97,7 +110,7 @@
       <updated>1549180615201</updated>
       <workItem from="1549184118643" duration="49000" />
       <workItem from="1550415381325" duration="47000" />
-      <workItem from="1550488482940" duration="1090000" />
+      <workItem from="1550488482940" duration="1414000" />
     </task>
     <task id="LOCAL-00001" summary="V_ID sample">
       <created>1549180808885</created>
@@ -120,11 +133,25 @@
       <option name="project" value="LOCAL" />
       <updated>1550488575150</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="s2,s2  metadata">
+      <created>1550491155394</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1550491155394</updated>
+    </task>
+    <task id="LOCAL-00005" summary="s1,s2  metadata">
+      <created>1550491276439</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1550491276439</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1186000" />
+    <option name="totallyTimeSpent" value="1510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -164,7 +191,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V_ID sample" />
-    <option name="LAST_COMMIT_MESSAGE" value="V_ID sample" />
+    <MESSAGE value="s2,s2  metadata" />
+    <MESSAGE value="s1,s2  metadata" />
+    <option name="LAST_COMMIT_MESSAGE" value="s1,s2  metadata" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Vandini/bin/sample_vandini.sh">
@@ -206,6 +235,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branch_Mahendra/s2/bin/mysql_sqoop.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Branch_Mahendra/s1/bin/custmers_staging.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
